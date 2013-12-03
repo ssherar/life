@@ -1,22 +1,21 @@
-@cheeaun's life
+@ssherar's life
 ===============
 
-- 20/06/1985 Born
-- 1991 Kindergarten
-- 1992-1997 Primary school - SKSJ
-- 1998-2000 Secondary school - SMKTI
-- ~2000 First computer
-- 2001-2002 Secondary school - SMKDOB
-- 04/11/2002 Phoenity is born
-- 2003-2004 Secondary school (Form 6) - SMKDOB
-- 01/2005-03/2005 First (non-technical) job
-- 08/2005-08/2008 University - UTAR
-- 11/2005 Dead hard drive of first computer
-- 07/2006-05/2007 CSS Web Designer - MindValley
-- 18/12/2006 First tweet
-- 04/2007 First laptop (HP)
-- 06/2008-07/2009 Web Developer - ZoeCity
-- 24/08/2009-26/06/2013 Front-End Developer - Wego
-- 07/2010 Second laptop (Dell)
-- 04/03/2012 HackerWeb featured on Hacker News' front page
-- 01/07/2013-~ Software Engineer - Viki
+- 17/01/1992 Born
+- 1997-2003 Primary school
+- 2003-2008 Secondary school
+- 25/12/1999 First computer (Time)
+- ~2004 First Website created (HTML/CSS)
+- ~2005 First used PHP
+- ~2006 Second computer (Dell Dimension E521)
+- ~2007 First PHP patch implemented (phpBB)
+- 09/2008 First freelancer job
+- 09/2008-10/2009 Freelance Web Developer
+- 2008-2010 College (Computing, Mathematics, Economics, Graphic Design)
+- 09/2009 Passed my driving test!
+- 10/2009 First payrolled job
+- 2011-~ Started University
+- 09/2011 First laptop (MacBook Pro 17")
+- 11/2012 Second laptop (MacBook Pro 15")
+- 01/2013 Third Computer (Mac Pro 1,1)
+- 07/2013-~ Started work for General Electric
