@@ -18,4 +18,5 @@
 - 09/2011 First laptop (MacBook Pro 17")
 - 11/2012 Second laptop (MacBook Pro 15")
 - 01/2013 Third Computer (Mac Pro 1,1)
-- 07/2013-~ Started work for General Electric
+- 07/2013-08/2014 Started work for General Electric
+- 09/2014-~ Moved back to Aberystwyth
