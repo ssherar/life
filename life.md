@@ -7,16 +7,15 @@
 - 25/12/1999 First computer (Time)
 - ~2004 First Website created (HTML/CSS)
 - ~2005 First used PHP
-- ~2006 Second computer (Dell Dimension E521)
-- ~2007 First PHP patch implemented (phpBB)
-- 09/2008 First freelancer job
 - 09/2008-10/2009 Freelance Web Developer
 - 2008-2010 College (Computing, Mathematics, Economics, Graphic Design)
 - 09/2009 Passed my driving test!
 - 10/2009 First payrolled job
-- 2011-~ Started University
-- 09/2011 First laptop (MacBook Pro 17")
-- 11/2012 Second laptop (MacBook Pro 15")
-- 01/2013 Third Computer (Mac Pro 1,1)
+- 2011-2015 Aberystwyth University - Software Engineering
 - 07/2013-08/2014 Started work for General Electric
-- 09/2014-~ Moved back to Aberystwyth
+- 09/2014 Moved to Aberystwyth
+- 01/2015-05/2015 Dissertation with the NHS Wales (iOS/Swift)
+- 06/2015 Moved to Watford
+- 06/2015-~ Joined GE Capital as an ITLP (IT Leadership Programme)
+- 06/2015-02/2016 Simplification Leader @ GE Money Home Lending
+- 02/2016-~ Rotation - Security Architect @ GE Capital International
