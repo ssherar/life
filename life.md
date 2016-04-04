@@ -13,9 +13,9 @@
 - 10/2009 First payrolled job
 - 2011-2015 Aberystwyth University - Software Engineering
 - 07/2013-08/2014 Started work for General Electric
-- 09/2014 Moved to Aberystwyth
 - 01/2015-05/2015 Dissertation with the NHS Wales (iOS/Swift)
-- 06/2015 Moved to Watford
-- 06/2015-~ Joined GE Capital as an ITLP (IT Leadership Programme)
-- 06/2015-02/2016 Simplification Leader @ GE Money Home Lending
-- 02/2016-~ Rotation - Security Architect @ GE Capital International
+- 06/2015-~ Indianna University - MBA (Kelley School of Business)
+- 06/2015 Moved to London
+- 06/2015-~ Joined GE Capital
+- 06/2015-01/2016 GRC Simplification Leader @ GE Money Home Lending
+- 02/2016-~ Security Architect @ GE Capital International
